@@ -8,7 +8,7 @@ This repository is an implementation of a deep learning library written in NumPy
 1. Clone the repository and run `poetry install`.
 2. Run `make help` for further instructions.
 
-## Components
+## Roadmap
 - MLP
     - Linear Layer `[mytorch.nn.Linear]`
     - Activation Functions:
@@ -30,4 +30,4 @@ This repository is an implementation of a deep learning library written in NumPy
 
 
 ---
-Made with :coffee: as part of Carnegie Mellon University's [11-785 Introduction to Deep Learning](https://deeplearning.cs.cmu.edu/S23/index.html)
+Made with :coffee: as part of Carnegie Mellon University's [11-785 Introduction to Deep Learning](https://deeplearning.cs.cmu.edu/S23/index.html).
