@@ -8,8 +8,8 @@ This repository is an implementation of a deep learning library written in NumPy
 1. Clone the repository and run `poetry install`.
 2. Run `make help` for further instructions.
 
-## Roadmap
-- MLP
+## Reference
+- MLP:
     - Linear Layer `[mytorch.nn.Linear]`
     - Activation Functions:
         - Sigmoid `[mytorch.nn.Sigmoid]`
@@ -26,6 +26,33 @@ This repository is an implementation of a deep learning library written in NumPy
         - Stochastic Gradient Descent (SGD) `[mytorch.optim.SGD]`
     - Regularization:
         - Batch Normalization `[mytorch.nn.BatchNorm1d]`
+- CNN:
+    - Resampling:
+        - Upsample1d `[mytorch.nn.Upsample1d]`
+        - Downsampling1d `[mytorch.nn.Downsampling1d]`
+        - Upsampling2d `[mytorch.nn.Upsampling2d]`
+        - Downsampling2d `[mytorch.nn.Downsampling2d]`
+    - Convolutional Layer:
+        - Conv1d_stride1 `[mytorch.nn.Conv1d_stride1]`
+        - Conv1d `[mytorch.nn.Conv1d]`
+        - Conv2d_stride1 `[mytorch.nn.Conv2d_stride1]`
+        - Conv2d `[mytorch.nn.Conv2d]`
+    - Transposed Convolution:
+        - ConvTranspose1d `[mytorch.nn.ConvTranspose1d]`
+        - ConvTranspose2d `[mytorch.nn.ConvTranspose2d]`
+    - Pooling:
+        - MaxPool2d_stride1 or MeanPool2d_stride1 `[mytorch.nn.MaxPool2d_stride1]` or `[mytorch.nn.MeanPool2d_stride1]` 
+        - MaxPool2d or MeanPool2d `[mytorch.nn.MaxPool2d]` or `[mytorch.nn.MeanPool2d]`
+- RNN:
+    - RNN Cell `[mytorch.nn.rnn_cell]`
+    - RNN Phoneme Classifier `[models.rnn_classifier]`
+    - GRU Cell `[mytorch.nn.gru_cell]`
+    - CTC `[mytorch.nn.ctc]`
+        - CTC Loss
+    - CTC Decoding: Greedy Search and Beam Search `[mytorch.nn.CTCDecoding]
+
+
+
 
 
 
