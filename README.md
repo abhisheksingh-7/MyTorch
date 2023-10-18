@@ -49,7 +49,7 @@ This repository is an implementation of a deep learning library written in NumPy
     - GRU Cell `[mytorch.nn.gru_cell]`
     - CTC `[mytorch.nn.ctc]`
         - CTC Loss
-    - CTC Decoding: Greedy Search and Beam Search `[mytorch.nn.CTCDecoding]
+    - CTC Decoding: Greedy Search and Beam Search `[mytorch.nn.CTCDecoding]``
 
 
 
