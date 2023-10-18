@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "mytorch"
+version = "0.1.0"
+description = "A custom deep learning library implemented from scratch."
+authors = ["Abhishek Singh <abhisheksingh.dev71@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+numpy = "^1.23.1"
+ipython = "^8.16.1"
+notebook = "^7.0.6"
+torch = "^2.1.0"
+torchvision = "^0.16.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
