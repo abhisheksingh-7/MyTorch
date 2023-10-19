@@ -1,5 +1,7 @@
+---
 **IMPORTANT DISCLAIMER**: This repository contains code from an academic assignment completed at Carnegie Mellon University (CMU). It is shared here solely to showcase my work. **Please do not use, reproduce, distribute, or reference this code in any form**. The intention is purely to display the project and not to provide a solution or reference for current or future students. If you're a student at CMU or any other institution, please adhere to your university's academic integrity guidelines. Misuse of this code is a violation of the repository's license.
 ---
+
 # MyTorch®
 
 This repository is an implementation of a deep learning library written in Python. Inspired by [PyTorch](https://pytorch.org/), this library, `MyTorch®` is used to create everything from multilayer perceptrons (MLP), convolutional neural networks (CNN), to recurrent neural networks with gated recurrent units (GRU) and long-short term memory (LSTM) structures.
