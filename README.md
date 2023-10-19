@@ -58,3 +58,6 @@ This repository is an implementation of a deep learning library written in Pytho
 
 ---
 Made with :coffee: as part of Carnegie Mellon University's [11-785 Introduction to Deep Learning](https://deeplearning.cs.cmu.edu/S23/index.html).
+
+**IMPORTANT DISCLAIMER**: This repository contains code from an academic assignment completed at Carnegie Mellon University (CMU). It is shared here solely to showcase my work. **Please do not use, reproduce, distribute, or reference this code in any form**. The intention is purely to display the project and not to provide a solution or reference for current or future students. If you're a student at CMU or any other institution, please adhere to your university's academic integrity guidelines. Misuse of this code is a violation of the repository's license.
+
