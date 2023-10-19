@@ -1,5 +1,5 @@
 
-**⚠️ IMPORTANT DISCLAIMER**: This repository contains code from an academic assignment completed at Carnegie Mellon University (CMU). It is shared here solely to showcase my work. **Please do not use, reproduce, distribute, or reference this code in any form**. The intention is purely to display the project and not to provide a solution or reference for current or future students. If you're a student at CMU or any other institution, please adhere to your university's academic integrity guidelines. Misuse of this code is a violation of the repository's license.
+⚠️ **IMPORTANT DISCLAIMER**: This repository contains code from an academic assignment completed at Carnegie Mellon University (CMU). It is shared here solely to showcase my work. **Please do not use, reproduce, distribute, or reference this code in any form**. The intention is purely to display the project and not to provide a solution or reference for current or future students. If you're a student at CMU or any other institution, please adhere to your university's academic integrity guidelines. Misuse of this code is a violation of the repository's license.
 
 ---
 
